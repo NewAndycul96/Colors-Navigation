@@ -14,6 +14,7 @@
 		16FBBF0F20F8F3FA008BB0F1 /* Colors_NavigationTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16FBBF0E20F8F3FA008BB0F1 /* Colors_NavigationTests.swift */; };
 		16FBBF1A20F8F3FB008BB0F1 /* Colors_NavigationUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16FBBF1920F8F3FB008BB0F1 /* Colors_NavigationUITests.swift */; };
 		16FBBF2820F8F411008BB0F1 /* ColorsNavViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16FBBF2720F8F411008BB0F1 /* ColorsNavViewController.swift */; };
+		16FBBF2A20F8F866008BB0F1 /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 16FBBF2920F8F866008BB0F1 /* Color.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		16FBBF1920F8F3FB008BB0F1 /* Colors_NavigationUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Colors_NavigationUITests.swift; sourceTree = "<group>"; };
 		16FBBF1B20F8F3FB008BB0F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		16FBBF2720F8F411008BB0F1 /* ColorsNavViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorsNavViewController.swift; sourceTree = "<group>"; };
+		16FBBF2920F8F866008BB0F1 /* Color.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				16FBBF0020F8F3FA008BB0F1 /* Assets.xcassets */,
 				16FBBF0220F8F3FA008BB0F1 /* LaunchScreen.storyboard */,
 				16FBBF0520F8F3FA008BB0F1 /* Info.plist */,
+				16FBBF2920F8F866008BB0F1 /* Color.swift */,
 			);
 			path = "Colors-Navigation";
 			sourceTree = "<group>";
@@ -258,6 +261,7 @@
 			files = (
 				16FBBF2820F8F411008BB0F1 /* ColorsNavViewController.swift in Sources */,
 				16FBBEFA20F8F3FA008BB0F1 /* AppDelegate.swift in Sources */,
+				16FBBF2A20F8F866008BB0F1 /* Color.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
